@@ -1,0 +1,21 @@
+
+
+.red-back {
+    background-color: #f08d8d;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: #4258ff;
+    font-size: 36px;
+}
+
+.red-back.three-font,
+#four {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #9cf7ab;
+    font-weight: bold;
+}
